@@ -88,7 +88,7 @@ A test script (`test.sh`) is provided to verify the functionality of the sniffer
   bash test.sh <executable> <interface> <pcap file>
   ```
 - Please wait while the tests run.
-- The pcap file above will be 3.pcap.
+- The pcap file above will be 3.pcap. You can also try out your own pcap file.
 
 
 
