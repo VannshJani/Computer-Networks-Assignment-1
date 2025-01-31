@@ -83,7 +83,10 @@ Press `Ctrl + C` to stop the packet capture, you have to stop the packet capture
 A test script (`test.sh`) is provided to verify the functionality of the sniffer. Follow the steps to run the tests successfully:
 - Clone this repository.
 - Compile the C file named final.c.
-- Run the test.sh file using the following command: bash test.sh "[executable]" "[interface]" "[pcap file]".
+- Run the test.sh file using the following command:
+  ```sh
+  bash test.sh "[executable]" "[interface]" "[pcap file]".
+  ```
 - Please wait while the tests run.
 - The pcap file above will be 3.pcap.
 
