@@ -33,7 +33,7 @@ Ensure that `libpcap` is installed on your system. Install it using:
   brew install libpcap
   ```
 
-## Usage
+## Usage (final.C)
 
 Run the program with a network interface name:
 
