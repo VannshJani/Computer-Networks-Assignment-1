@@ -77,11 +77,10 @@ sudo ./packet_sniffer eth0 --d
 - **IP Count Flow:** Written to `ip_count_flow.txt` for source/destination IP statistics.
 
 ## Stopping the Sniffer
-Press `Ctrl + C` to stop the packet capture and display the summary.
+Press `Ctrl + C` to stop the packet capture, you have to stop the packet capture once no more packets are being recieved.
 
 ## Testing
 A test script (`test_script.sh`) is provided to verify the functionality of the sniffer.
 
-## License
-This project is open-source and available for modification and distribution.
+
 
