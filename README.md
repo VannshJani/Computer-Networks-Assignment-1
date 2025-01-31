@@ -89,6 +89,7 @@ A test script (`test.sh`) is provided to verify the functionality of the sniffer
   ```
 - Please wait while the tests run.
 - The pcap file above will be 3.pcap. You can also try out your own pcap file.
+- This test file assumes you have tcpreplay installed and have compiled the final.c using the command given above.
 
 
 
