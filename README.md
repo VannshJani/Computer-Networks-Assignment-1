@@ -46,7 +46,7 @@ sudo ./packet_sniffer <network_interface> [options]
 - `--src-ip <IP>`: Filter packets from a specific source IP.
 - `--dest-ip <IP>`: Filter packets to a specific destination IP.
 - `--protocol <TCP|UDP>`: Filter packets by protocol.
-- `--v`: Display flow statistics.
+- `--v`: Display flow statistics (stores output in .txt).
 - `--d`: Decode and print HTTP payloads.
 
 ### Example Commands
